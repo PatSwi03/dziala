@@ -12,6 +12,10 @@
             string zmienna3 = "Hej";
             char zmienna14 = 's';
             bool zmienna2 = 5 > 2 && 5 < 3;
+
+            const float PI = 3.14F;
+
+            Console.WriteLine(PI);
             Console.WriteLine(zmienna2);
             Console.WriteLine("Siema nema neczko");
             Console.WriteLine(zmienna4);

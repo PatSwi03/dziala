@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! 2");
+﻿namespace Lekcja1
+{
+    class Program
+    {
+        static void Main(string[] args) 
+        {
+            int zmienna = int.MaxValue;
+            Console.WriteLine(zmienna);
+            var zmienna2 = "Hello";
+            Console.ReadKey();
+        }
+    }
+}

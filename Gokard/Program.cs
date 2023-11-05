@@ -8,7 +8,7 @@ namespace Gokardy
 {
     class Program
     {
-
+        static List<Zawodnik> zawodnicy = new List<Zawodnik>();
         public struct Zawodnik
         {
            public int id;
@@ -21,7 +21,7 @@ namespace Gokardy
         }
         static void Main(string[] args)
         {
-            pobierzZawodnika();
+            zawodnicy.Add(pobierzZawodnika());
              
         }
         static string pobierzDane(string doWyswietlenia)

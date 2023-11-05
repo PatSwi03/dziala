@@ -21,20 +21,33 @@ namespace Gokardy
         }
         static void Main(string[] args)
         {
-            Zawodnik anonim = new Zawodnik(); 
-            anonim.id = int.Parse(pobierzDane("Podaj id"));
-            anonim.imie = pobierzDane("Podaj imię");
-            anonim.nazwisko = pobierzDane("Podaj nazwisko");
-            anonim.wiek = byte.Parse(pobierzDane("Podaj wiek"));
-            anonim.plec = bool.Parse(pobierzDane("Podaj płeć"));
-            anonim.poziom = bool.Parse(pobierzDane("Podaj poziom"));
-            anonim.ranking = int.Parse(pobierzDane("Podaj ranking"));
+            pobierzZawodnika();
 
         }
         static string pobierzDane(string doWyswietlenia)
         {
+            Console.Clear();
             Console.WriteLine(doWyswietlenia);
             return Console.ReadLine();
+        }
+        static Zawodnik pobierzZawodnika()
+        {
+            Zawodnik anonim = new Zawodnik();
+            anonim.id = int.Parse(pobierzDane("Podaj id"));
+            anonim.imie = pobierzDane("Podaj imię");
+            anonim.nazwisko = pobierzDane("Podaj nazwisko");
+            anonim.wiek = byte.Parse(pobierzDane("Podaj wiek"));
+            string _plec = (pobierzDane("Podaj płeć K/M"));
+            anonim.plec = _plec.ToUpper().StartsWith("M") ? true :
+                  _plec.ToUpper().StartsWith("K") ? false : true;
+
+            string _poziom = (pobierzDane("Podaj poziom A/Z"));
+            anonim.poziom = _poziom.ToUpper().StartsWith("A") ? true :
+                  _poziom.ToUpper().StartsWith("Z") ? false : true;
+
+
+            anonim.ranking = int.Parse(pobierzDane("Podaj ranking 1-10000"));
+            return anonim;
         }
     }
 }

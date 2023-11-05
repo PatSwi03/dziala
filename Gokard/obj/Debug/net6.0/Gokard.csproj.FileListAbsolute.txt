@@ -1,0 +1,14 @@
+C:\Kody\Gokard\bin\Debug\net6.0\Gokard.exe
+C:\Kody\Gokard\bin\Debug\net6.0\Gokard.deps.json
+C:\Kody\Gokard\bin\Debug\net6.0\Gokard.runtimeconfig.json
+C:\Kody\Gokard\bin\Debug\net6.0\Gokard.dll
+C:\Kody\Gokard\bin\Debug\net6.0\Gokard.pdb
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.AssemblyInfoInputs.cache
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.AssemblyInfo.cs
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.csproj.CoreCompileInputs.cache
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.dll
+C:\Kody\Gokard\obj\Debug\net6.0\refint\Gokard.dll
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.pdb
+C:\Kody\Gokard\obj\Debug\net6.0\Gokard.genruntimeconfig.cache
+C:\Kody\Gokard\obj\Debug\net6.0\ref\Gokard.dll

@@ -22,7 +22,7 @@ namespace Gokardy
         static void Main(string[] args)
         {
             pobierzZawodnika();
-
+             
         }
         static string pobierzDane(string doWyswietlenia)
         {

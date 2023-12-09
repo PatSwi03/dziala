@@ -1,0 +1,14 @@
+C:\Kody\BMI\bin\Debug\net6.0\BMI.exe
+C:\Kody\BMI\bin\Debug\net6.0\BMI.deps.json
+C:\Kody\BMI\bin\Debug\net6.0\BMI.runtimeconfig.json
+C:\Kody\BMI\bin\Debug\net6.0\BMI.dll
+C:\Kody\BMI\bin\Debug\net6.0\BMI.pdb
+C:\Kody\BMI\obj\Debug\net6.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\BMI\obj\Debug\net6.0\BMI.AssemblyInfoInputs.cache
+C:\Kody\BMI\obj\Debug\net6.0\BMI.AssemblyInfo.cs
+C:\Kody\BMI\obj\Debug\net6.0\BMI.csproj.CoreCompileInputs.cache
+C:\Kody\BMI\obj\Debug\net6.0\BMI.dll
+C:\Kody\BMI\obj\Debug\net6.0\refint\BMI.dll
+C:\Kody\BMI\obj\Debug\net6.0\BMI.pdb
+C:\Kody\BMI\obj\Debug\net6.0\BMI.genruntimeconfig.cache
+C:\Kody\BMI\obj\Debug\net6.0\ref\BMI.dll

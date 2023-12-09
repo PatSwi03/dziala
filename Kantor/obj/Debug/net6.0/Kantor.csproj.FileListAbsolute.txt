@@ -1,0 +1,14 @@
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.AssemblyInfoInputs.cache
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.AssemblyInfo.cs
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.csproj.CoreCompileInputs.cache
+C:\Kody\Kantor\bin\Debug\net6.0\Kantor.exe
+C:\Kody\Kantor\bin\Debug\net6.0\Kantor.deps.json
+C:\Kody\Kantor\bin\Debug\net6.0\Kantor.runtimeconfig.json
+C:\Kody\Kantor\bin\Debug\net6.0\Kantor.dll
+C:\Kody\Kantor\bin\Debug\net6.0\Kantor.pdb
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.dll
+C:\Kody\Kantor\obj\Debug\net6.0\refint\Kantor.dll
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.pdb
+C:\Kody\Kantor\obj\Debug\net6.0\Kantor.genruntimeconfig.cache
+C:\Kody\Kantor\obj\Debug\net6.0\ref\Kantor.dll

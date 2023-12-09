@@ -1,0 +1,14 @@
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.AssemblyInfoInputs.cache
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.AssemblyInfo.cs
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.csproj.CoreCompileInputs.cache
+C:\Kody\Pitagoras\bin\Debug\net6.0\Pitagoras.exe
+C:\Kody\Pitagoras\bin\Debug\net6.0\Pitagoras.deps.json
+C:\Kody\Pitagoras\bin\Debug\net6.0\Pitagoras.runtimeconfig.json
+C:\Kody\Pitagoras\bin\Debug\net6.0\Pitagoras.dll
+C:\Kody\Pitagoras\bin\Debug\net6.0\Pitagoras.pdb
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.dll
+C:\Kody\Pitagoras\obj\Debug\net6.0\refint\Pitagoras.dll
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.pdb
+C:\Kody\Pitagoras\obj\Debug\net6.0\Pitagoras.genruntimeconfig.cache
+C:\Kody\Pitagoras\obj\Debug\net6.0\ref\Pitagoras.dll

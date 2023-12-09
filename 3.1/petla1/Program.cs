@@ -4,10 +4,10 @@ class Program
 {
     static void Main()
     {
-       for (int x = 0; x <= 10; x++)
+       for (int x = 0; x < 11; x++)
        {
-           double y = Math.Pow(3, 2) * Math.Sqrt(x);
-           Console.WriteLine("Dla x wartość wynosi = " + x +", dla y wartość wynosi ="+y);
+           double y = Math.Sqrt ((Math.Pow(3, 2))) * x;
+           Console.WriteLine("Dla x wartość wynosi = " + x +", dla y wartość wynosi = "+y);
        }
        Console.ReadKey();
     }

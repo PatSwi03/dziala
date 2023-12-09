@@ -1,0 +1,14 @@
+C:\Kody\3.4\bin\Debug\net6.0\3.4.exe
+C:\Kody\3.4\bin\Debug\net6.0\3.4.deps.json
+C:\Kody\3.4\bin\Debug\net6.0\3.4.runtimeconfig.json
+C:\Kody\3.4\bin\Debug\net6.0\3.4.dll
+C:\Kody\3.4\bin\Debug\net6.0\3.4.pdb
+C:\Kody\3.4\obj\Debug\net6.0\3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\3.4\obj\Debug\net6.0\3.4.AssemblyInfoInputs.cache
+C:\Kody\3.4\obj\Debug\net6.0\3.4.AssemblyInfo.cs
+C:\Kody\3.4\obj\Debug\net6.0\3.4.csproj.CoreCompileInputs.cache
+C:\Kody\3.4\obj\Debug\net6.0\3.4.dll
+C:\Kody\3.4\obj\Debug\net6.0\refint\3.4.dll
+C:\Kody\3.4\obj\Debug\net6.0\3.4.pdb
+C:\Kody\3.4\obj\Debug\net6.0\3.4.genruntimeconfig.cache
+C:\Kody\3.4\obj\Debug\net6.0\ref\3.4.dll

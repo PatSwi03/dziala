@@ -1,0 +1,14 @@
+C:\Kody\3.1\petla1\bin\Debug\net6.0\petla1.exe
+C:\Kody\3.1\petla1\bin\Debug\net6.0\petla1.deps.json
+C:\Kody\3.1\petla1\bin\Debug\net6.0\petla1.runtimeconfig.json
+C:\Kody\3.1\petla1\bin\Debug\net6.0\petla1.dll
+C:\Kody\3.1\petla1\bin\Debug\net6.0\petla1.pdb
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.AssemblyInfoInputs.cache
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.AssemblyInfo.cs
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.csproj.CoreCompileInputs.cache
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.dll
+C:\Kody\3.1\petla1\obj\Debug\net6.0\refint\petla1.dll
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.pdb
+C:\Kody\3.1\petla1\obj\Debug\net6.0\petla1.genruntimeconfig.cache
+C:\Kody\3.1\petla1\obj\Debug\net6.0\ref\petla1.dll
